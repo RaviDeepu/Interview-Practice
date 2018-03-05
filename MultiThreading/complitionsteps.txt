@@ -1,0 +1,3 @@
+g++ printEvenOdd.cpp -lboost_thread -lboost_system
+
+
